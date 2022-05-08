@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 3,
+			"anim": "idle",
+			"loop": true,
+			"name": "juperios idle00000"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 3,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "juperios right00000"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 3,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "juperios left00000"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 3,
+			"anim": "singUP",
+			"loop": true,
+			"name": "juperios up00000"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 3,
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "juperios down00000"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/juperios",
+	"position": [
+		-800,
+		0
+	],
+	"healthicon": "juperios",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		155,
+		0
+	],
+	"camera_position": [
+		50,
+		-120
+	],
+	"sing_duration": 3,
+	"scale": 1
+}

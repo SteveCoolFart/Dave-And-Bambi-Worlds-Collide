@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				80,
+				-63
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Brobgonal idle0000"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Brobgonal",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bambi",
+	"flip_x": false,
+	"healthbar_colors": [
+		12,
+		181,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6,
+	"scale": 0.4
+}

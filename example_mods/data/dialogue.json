@@ -1,0 +1,20 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "epic",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "rap"
+		},
+		{
+			"sound": "",
+			"speed": 0.005,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "ok"
+		}
+	]
+}
